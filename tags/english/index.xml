@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Hugo Blog</title>
+    <link>https://luoluokong.github.io/github-article/tags/english/</link>
+    <description>Recent content in English on Hugo Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 11 Sep 2024 07:36:47 +0800</lastBuildDate>
+    <atom:link href="https://luoluokong.github.io/github-article/tags/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>职业的英语</title>
+      <link>https://luoluokong.github.io/github-article/post/english/profession/</link>
+      <pubDate>Wed, 11 Sep 2024 07:36:39 +0800</pubDate>
+      <guid>https://luoluokong.github.io/github-article/post/english/profession/</guid>
+      <description>一些职业的英语</description>
+    </item>
+  </channel>
+</rss>

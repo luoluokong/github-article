@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Hugo Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 12 Aug 2024 15:37:40 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 07:36:47 +0800</lastBuildDate>
     <atom:link href="https://luoluokong.github.io/github-article/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>https://luoluokong.github.io/github-article/tags/english/</link>
+      <pubDate>Wed, 11 Sep 2024 07:36:39 +0800</pubDate>
+      <guid>https://luoluokong.github.io/github-article/tags/english/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Docker</title>
       <link>https://luoluokong.github.io/github-article/tags/docker/</link>
