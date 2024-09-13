@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Textbook on Hugo Blog</title>
+    <link>https://luoluokong.github.io/github-article/tags/textbook/</link>
+    <description>Recent content in Textbook on Hugo Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 13 Sep 2024 15:51:17 +0800</lastBuildDate>
+    <atom:link href="https://luoluokong.github.io/github-article/tags/textbook/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unit One</title>
+      <link>https://luoluokong.github.io/github-article/post/english/textbook/unit-one/</link>
+      <pubDate>Wed, 11 Sep 2024 07:59:04 +0800</pubDate>
+      <guid>https://luoluokong.github.io/github-article/post/english/textbook/unit-one/</guid>
+      <description>unit one</description>
+    </item>
+  </channel>
+</rss>
